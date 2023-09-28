@@ -1,0 +1,51 @@
+/*h1{
+    color: red;
+}
+
+p{
+    background-color: cornflowerblue;
+    color: lightgoldenrodyellow;
+    font-size: larger;
+    text-align: center;
+}*/
+/* This class make the font bold */
+.bold-text {
+    font-weight: bloder;
+    color: black;
+}
+
+#marvel-logo{
+    max-width: 300px;
+}
+.hero-text{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4em;
+    text-transform: uppercase;
+    color: rgb(255, 0, 0);
+    text-shadow: 2px 1px #292929;
+    -webkit-text-stroke-color: yellow;
+    -webkit-text-stroke-width: 1px;
+}
+
+.hero-image{
+    max-width: 100px;
+}
+#Km-Image{
+    max-width: 400px;
+}
+.KM-H1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4em;
+    text-transform: uppercase;
+    color: black;
+    text-shadow: 3px 2px #292929;
+    -webkit-text-stroke-color: lightgoldenrodyellow;
+    -webkit-text-stroke-width: 1.5px;
+    text-align: center;
+}
+.KM-H2{
+    color: rgb(231, 217, 139);
+    text-shadow: 2px 2px #292929;
+    -webkit-text-stroke-color: rgb(214, 153, 153);
+    -webkit-text-stroke-width: 1px;
+}
